@@ -1,0 +1,1 @@
+FAST FISH is a decentralized and intelligent content publishing system, where users can publish content on the FAST FISH platform to obtain FISH, or pay for FISH on the FAST FISH platform to obtain content.
